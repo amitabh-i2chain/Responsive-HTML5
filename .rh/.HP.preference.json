@@ -1,0 +1,17 @@
+{
+  "recent-files::internal:document": [{
+    "path": "F:/DocsDev/Responsive-HTML5/i2cDocs/contents/First_Topic.htm",
+    "pinned": false,
+    "time": "Nov 7, 6:27 PM"
+  }],
+  "file-modified": "2019-11-07T18:28:20+05:30",
+  "generate": {
+    "outputs": {
+      "F:/DocsDev/Responsive-HTML5/i2cDocs/publish/presets/Responsive HTML5.preset": {
+        "exists": true,
+        "path": "C:/Users/HP/Documents/My RoboHelp Projects/outputs/i2cDocs/Responsive HTML5/index.htm",
+        "time": "2019-11-07T18:28:30+05:30"
+      }
+    }
+  }
+}
